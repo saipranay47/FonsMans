@@ -1,0 +1,117 @@
+{
+    "projects": [
+        {
+            "name": "10x Designer",
+            "year": "22"
+        },
+        {
+            "name": "Off-Grid",
+            "year": "23",
+            "new": true
+        },
+        {
+            "name": "Community Guide",
+            "year": "23"
+        },
+        {
+            "name": "Kloffie",
+            "year": "22"
+        },
+        {
+            "name": "Apex",
+            "year": "23"
+        },
+        {
+            "name": "Design Gifts",
+            "year": "23"
+        },
+        {
+            "name": "365 Design tips",
+            "year": "23"
+        },
+        {
+            "name": "Friday with Fons",
+            "year": "23"
+        },
+        {
+            "name": "Rise",
+            "year": "23"
+        }
+    ],
+    "stack": [
+        "Framer",
+        "Typefully",
+        "Overrides",
+        "Circle",
+        "Iconists",
+        "Screen Studio",
+        "Relume",
+        "Cleanshot",
+        "Helpscout",
+        "Figma",
+        "Figma"
+    ],
+    "channels":[
+        {
+            "name": "Twitter",
+            "type": "Visual Design"
+        },
+        {
+            "name": "Linkedin",
+            "type": "Web Design"
+        },
+        {
+            "name": "Medium",
+            "type": "Visual Design"
+        },
+        {
+            "name": "Substack",
+            "type": "Visual Design"
+        },
+        {
+            "name": "Threads",
+            "type": "Visual Design"
+        },
+        {
+            "name": "Apple Music",
+            "type": "Visual Design"
+        }
+    ],
+    "features":[
+        {
+
+            "name": "Config",
+            "year": "22"
+        },
+        {
+            "name": "Hatch Conference",
+            "year": "23"
+        },
+        {
+            "name": "Wall Street Journal",
+            "year": "23"
+        },
+        {
+            "name": "New York Times",
+            "year": "22"
+        },
+        {
+            "name": "Macworld",
+            "year": "23"
+        }
+    ],
+    "clients":[
+        {
+            "name":"Bluesky",
+            "type":"Visual Design"
+        },
+        {
+            "name": "Diagram",
+            "type": "Web Design"
+        },
+        {
+            "name": "Figma",
+            "type": "Visual Design"
+        }
+    ]
+}
