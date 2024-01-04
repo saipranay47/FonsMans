@@ -1,7 +1,7 @@
 {
     "projects": [
         {
-            "name": "10x Designer",
+            "name": "10x Designers",
             "year": "22"
         },
         {
@@ -58,7 +58,7 @@
         },
         {
             "name": "Linkedin",
-            "type": "Web Design"
+            "type": "Visual Design"
         },
         {
             "name": "Medium",
@@ -107,7 +107,7 @@
         },
         {
             "name": "Diagram",
-            "type": "Web Design"
+            "type": "Visual Design"
         },
         {
             "name": "Figma",
